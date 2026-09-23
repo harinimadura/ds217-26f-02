@@ -46,7 +46,7 @@ Replace the `TODO` line under `## Run` with a Python 3.13 command that runs your
 Importing `vitals_tools` creates a `__pycache__/` folder of compiled files. Replace the two `TODO` comments in `.gitignore` with the pattern for that folder and the pattern for the compiled files it holds. The standard pair is `__pycache__/` and `*.pyc`; GitHub's own Python template writes the second one as `*.py[codz]`, which is equally good.
 
 > **Checkpoint: `README.md` and `.gitignore`**
-> Confirm in Source Control that both files appear under **Changes**, stage them, and commit with `Document the clinic report`.
+> Confirm in Source Control that both files appear under **Changes**, stage them, & commit with `Document the clinic report`.
 
 ## Task 2: Summarize the supplied encounters
 
