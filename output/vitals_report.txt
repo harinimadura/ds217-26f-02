@@ -1,0 +1,31 @@
+P001: 118 mmHg
+P002: 142 mmHg
+P003: 126 mmHg
+P005: 134 mmHg
+P006: 151 mmHg
+P007: 108 mmHg
+P009: 138 mmHg
+P010: 124 mmHg
+P011: 163 mmHg
+P012: 119 mmHg
+P014: 145 mmHg
+P015: 131 mmHg
+P017: 122 mmHg
+P018: 186 mmHg
+P020: 137 mmHg
+P006: 148 mmHg
+P021: 115 mmHg
+P022: 140 mmHg
+P023: 133 mmHg
+P024: 127 mmHg
+P025: 158 mmHg
+P011: 169 mmHg
+P026: 121 mmHg
+P027: 98 mmHg
+P028: 144 mmHg
+Usable encounters: 25.0 rows
+Skipped rows: 6 rows
+Patients seen: 23.0 rows
+Mean systolic: 135.9 mmHg
+Highest systolic: 186 mmHg
+Lowest systolic: 98 mmHg
