@@ -6,7 +6,7 @@ To complete Assignment 2 of unit DATASCI-217.
 
 ## Run
 
-python3 clinic_report.py
+"Run `python3 clinic_report.py` from this folder."
 
 ## Files
 
