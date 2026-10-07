@@ -1,0 +1,17 @@
+Cutoff: 130 mmHg
+Reason: Systolic >=130 mmHg considered hypertensive
+P002
+P005
+P006
+P009
+P011
+P014
+P015
+P018
+P020
+P006
+P022
+P023
+P025
+P011
+P028
